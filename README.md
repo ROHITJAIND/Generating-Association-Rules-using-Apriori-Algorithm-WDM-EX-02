@@ -1,16 +1,20 @@
 # EX-02 Generating Association Rules for Employee dataset using Apriori Algorithm 
+<br>
+
 ### Aim: 
-To generate associate rules for the employee dataset using Apriori Algorithm.
+To generate associate rules for the employee dataset using Apriori Algorithm. &emsp;**DATE: 00.00.2024**
+
 ### Description:
 In data mining, association rule learning is a popular and well researched method for discovering interesting
 relations between variables in large databases. It can be described as analyzing and presenting strong rules discovered
 in databases using different measures of interestingness. In market basket analysis association rules are used and they
 are also employed in many application areas including Web usage mining, intrusion detection and bioinformatics.
 Creation of Buying Table:
+
 ### Procedure:
 1) Open Start -> Programs -> Accessories -> Notepad
 2) Type the following training data set with the help of Notepad for Buying Table.<br>
-
+<br>
 <table align=center>
 <tr>
 <td>
@@ -52,23 +56,22 @@ G40,high,yes,excellent,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file.<br>
 8) Click on edit button which shows buying table on weka.<br>
 <br>
-<br>
-<br>
-<br>
 
 ### Ouptut:
-<img height=20% width=20% src="https://github.com/user-attachments/assets/7d89f61c-79d6-43e3-9223-1c0f98da94c1">
+<img height=24% width=30% src="https://github.com/user-attachments/assets/7d89f61c-79d6-43e3-9223-1c0f98da94c1">
 
 ### Procedure for Association Rules:
-1) Open Start -> Programs -> Accessories -> Notepad
-2) Open explorer.
-3) Click on open file and select buying.arff
-4) Select Associate option on the top of the Menu bar.
-5) Select Choose button and then click on Apriori Algorithm.
-6) Click on Start button and output will be displayed on the right side of the window.
+1) Start -> Programs -> Weka-3-4 -> Explorer -> Open File -> buying.arff.
+2) Select Associate option on the top of the Menu bar.
+3) Select Choose button and then click on Apriori Algorithm.
+4) Click on Start button and output will be displayed on the right side of the window.
 
-### OUTPUT:
-<img height=20% width=20% src="https://github.com/user-attachments/assets/3eaf71b6-af0b-4214-a74a-dd83c7fbd5e3">
+### Output:
+<img height=50% width=90% src="https://github.com/user-attachments/assets/3eaf71b6-af0b-4214-a74a-dd83c7fbd5e3">
 
-### RESULT: 
+### Result: 
 Thus, generation of association rules using apriori algorithm is executed succesfully.
+<br>
+<br>
+###### Developed by: ROHIT JAIN D
+###### RegisterNumber: 212222230120
